@@ -29,7 +29,7 @@ In order to use the script, you have to download this repository. You can downlo
 
 ### Clone repository
 
-Type the following in the directory you want to clone this Github repository to:
+Type the following (in the linux shell) in the directory you want to clone this Github repository to:
 ```bash
 git clone https://github.com/tianniezing/iwo-milestone5
 ```
