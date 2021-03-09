@@ -25,7 +25,7 @@ wget --version
 
 ### Download repository
 
-In order to use the script, you have to download this repository. You can download it by clicking on the green button and select 'Download ZIP'.
+In order to use the script, you have to download this repository. You can download it by clicking on the green button 'Code' and select 'Download ZIP'.
 
 ### Clone repository
 
