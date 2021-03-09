@@ -8,13 +8,15 @@ This Github repository contains a shell script `sample.sh` to count all occurenc
 
 The script `sample.sh` uses `wget` (and not a text file with the text of the site!). In order to make sure the script runs how it should, it is necessary to install `wget`. To install it, you have to type the following in the linux shell:
 
+To make sure you get the latest version of wget:
 ```bash
 sudo apt-get update
 ```
+Install wget:
 ```bash
 sudo apt-get install wget
 ```
-To check if you have the correct version (GNU Wget 1.21.1), do the following command:
+To check if you have the correct version (GNU Wget 1.21.1 and newer), do the following command:
 ```bash
 wget --version
 ```
