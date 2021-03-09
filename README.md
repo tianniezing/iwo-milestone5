@@ -46,5 +46,5 @@ More information about the script and how it is adjustable, can be found as comm
 
 The outcome after running `sample.sh` is 311. It however can be different for you because the Wikipedia page can be edited and therefore contain a different number of the word 'de'. Date of writing: 09-03-2021. 
 
-
+ 
 
