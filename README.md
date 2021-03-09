@@ -6,7 +6,7 @@ This Github repository contains a shell script `sample.sh` to count all occurenc
 
 ## Important before running the script
 
-The script `sample.sh` uses `wget`. In order to make sure the script runs how it should, it is necessary to install `wget`. To install it, you have to type the following in the linux shell:
+The script `sample.sh` uses `wget` (and not a text file with the text of the site!). In order to make sure the script runs how it should, it is necessary to install `wget`. To install it, you have to type the following in the linux shell:
 
 ```bash
 sudo apt-get update
